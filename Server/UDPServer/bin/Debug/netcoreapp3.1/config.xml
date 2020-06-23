@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<server>
+  <port>4000</port>
+  <ip>127.0.0.1</ip>
+  <lower_range>10</lower_range>
+  <upper_range>1000000</upper_range>
+</server>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<client>
+  <port>4000</port>
+  <ip>127.0.0.1</ip>
+  <delay>10</delay>
+</client>

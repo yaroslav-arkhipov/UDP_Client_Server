@@ -1,0 +1,26 @@
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.exe
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.deps.json
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.json
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.dev.json
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csprojAssemblyReference.cache
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\Yaroslav\Desktop\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.genruntimeconfig.cache
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.exe
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.deps.json
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.json
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.dev.json
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csprojAssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\Yaroslav\Desktop\Programming Projects\C#\UDPClient-Server\Client\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.genruntimeconfig.cache
