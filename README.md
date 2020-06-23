@@ -8,19 +8,19 @@ In the corresponding folders are the UDP client and server. The configuration of
 - to set the delay in the client application, use the tag <delay> integer digit </delay>
 
 The server config file has the following format:
-<? xml version = "1.0" encoding = "utf-8"?>
-<server>
-  <port> 4000 </port>
-  <ip> 127.0.0.1 </ip>
-  <lower_range> 10 </lower_range>
-  <upper_range> 1,000,000 </upper_range>
-</server>
+? xml version = "1.0" encoding = "utf-8"?>
+server>
+  port> 4000 /port>
+  ip> 127.0.0.1 /ip>
+  lower_range> 10 /lower_range>
+  upper_range> 1,000,000 /upper_range>
+/server>
 
 
 The client config file has the following format:
-<? xml version = "1.0" encoding = "utf-8"?>
-<client>
-  <port> 4000 </port>
-  <ip> 127.0.0.1 </ip>
-  <delay> 0 </delay>
-</client>
+? xml version = "1.0" encoding = "utf-8"?>
+client>
+  port> 4000 /port>
+  ip> 127.0.0.1 </ip>
+  delay> 0 /delay>
+/client>
